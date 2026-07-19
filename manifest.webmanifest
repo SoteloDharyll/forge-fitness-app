@@ -1,0 +1,15 @@
+{
+  "name": "FORGE — Build Your Body. Forge Your Discipline.",
+  "short_name": "FORGE",
+  "description": "Personal fitness operating system: workouts, stretching, habits, mantra.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0d0f",
+  "theme_color": "#0d0d0f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "logo.jpg", "sizes": "690x633", "type": "image/jpeg", "purpose": "any" }
+  ]
+}
